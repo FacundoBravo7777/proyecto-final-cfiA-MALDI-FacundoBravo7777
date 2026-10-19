@@ -1,0 +1,16 @@
+strain_id,n_rep1,n_rep2,estado
+5766,1,1,OK
+6085,1,1,OK
+6447,2,0,"FALTA REP2 real (rep1 adquirida >=2 veces, rep2 nunca generada)"
+6655,2,0,"FALTA REP2 real (rep1 adquirida >=2 veces, rep2 nunca generada)"
+6742,0,0,CEPA NO ENCONTRADA EN LOS ARCHIVOS SUBIDOS
+6771,1,1,OK
+6839,1,1,OK
+6862,1,1,OK
+6392,1,1,OK
+6399,1,0,FALTA REP2 (solo 1 espectro total)
+6717,1,1,OK
+6741,1,1,OK
+6843,1,1,OK
+7648,2,0,"FALTA REP2 real (rep1 adquirida >=2 veces, rep2 nunca generada)"
+7681,1,1,OK

@@ -1,0 +1,136 @@
+ID_,strain_id,replica,pcr_status,organism,excluido_id_fallida,marker,observed_mass,call
+aa7cedf3-1aad-44e6-8275-08d96f38302d,5766,1,cfiA_negative,fragilis,False,marker_1,4708.85,cfiA_negativo_like
+aa7cedf3-1aad-44e6-8275-08d96f38302d,5766,1,cfiA_negative,fragilis,False,marker_2,4814.86,cfiA_negativo_like
+aa7cedf3-1aad-44e6-8275-08d96f38302d,5766,1,cfiA_negative,fragilis,False,marker_3,5013.91,cfiA_negativo_like
+aa7cedf3-1aad-44e6-8275-08d96f38302d,5766,1,cfiA_negative,fragilis,False,marker_4,5200.88,cfiA_negativo_like
+aa7cedf3-1aad-44e6-8275-08d96f38302d,5766,1,cfiA_negative,fragilis,False,marker_5,5285.4,cfiA_positivo_like
+243ddb21-8d59-406b-8ede-27a36590beff,5766,2,cfiA_negative,fragilis,False,marker_1,4709.52,cfiA_negativo_like
+243ddb21-8d59-406b-8ede-27a36590beff,5766,2,cfiA_negative,fragilis,False,marker_2,4814.52,cfiA_negativo_like
+243ddb21-8d59-406b-8ede-27a36590beff,5766,2,cfiA_negative,fragilis,False,marker_3,,sin_pico_detectado
+243ddb21-8d59-406b-8ede-27a36590beff,5766,2,cfiA_negative,fragilis,False,marker_4,5200.88,cfiA_negativo_like
+243ddb21-8d59-406b-8ede-27a36590beff,5766,2,cfiA_negative,fragilis,False,marker_5,5286.81,cfiA_positivo_like
+7f4c1389-e270-4477-8364-e9eaeb210729,6085,1,cfiA_positive,fragilis,False,marker_1,4684.98,cfiA_positivo_like
+7f4c1389-e270-4477-8364-e9eaeb210729,6085,1,cfiA_positive,fragilis,False,marker_2,4824.46,cfiA_positivo_like
+7f4c1389-e270-4477-8364-e9eaeb210729,6085,1,cfiA_positive,fragilis,False,marker_3,5000.35,cfiA_positivo_like
+7f4c1389-e270-4477-8364-e9eaeb210729,6085,1,cfiA_positive,fragilis,False,marker_4,5186.41,cfiA_positivo_like
+7f4c1389-e270-4477-8364-e9eaeb210729,6085,1,cfiA_positive,fragilis,False,marker_5,5278.6,cfiA_positivo_like
+f665f3e0-9467-4337-833a-d6b239c8c5bf,6085,2,cfiA_positive,fragilis,False,marker_1,4685.64,cfiA_positivo_like
+f665f3e0-9467-4337-833a-d6b239c8c5bf,6085,2,cfiA_positive,fragilis,False,marker_2,4825.14,cfiA_positivo_like
+f665f3e0-9467-4337-833a-d6b239c8c5bf,6085,2,cfiA_positive,fragilis,False,marker_3,5000.35,cfiA_positivo_like
+f665f3e0-9467-4337-833a-d6b239c8c5bf,6085,2,cfiA_positive,fragilis,False,marker_4,5185.71,cfiA_positivo_like
+f665f3e0-9467-4337-833a-d6b239c8c5bf,6085,2,cfiA_positive,fragilis,False,marker_5,5288.5,cfiA_positivo_like
+6f253f41-1dbb-4cd4-a342-c8d8bb135755,6392,1,cfiA_positive,Family Bacteroidaceae,False,marker_1,4685.64,cfiA_positivo_like
+6f253f41-1dbb-4cd4-a342-c8d8bb135755,6392,1,cfiA_positive,Family Bacteroidaceae,False,marker_2,4824.46,cfiA_positivo_like
+6f253f41-1dbb-4cd4-a342-c8d8bb135755,6392,1,cfiA_positive,Family Bacteroidaceae,False,marker_3,5000.35,cfiA_positivo_like
+6f253f41-1dbb-4cd4-a342-c8d8bb135755,6392,1,cfiA_positive,Family Bacteroidaceae,False,marker_4,5186.41,cfiA_positivo_like
+6f253f41-1dbb-4cd4-a342-c8d8bb135755,6392,1,cfiA_positive,Family Bacteroidaceae,False,marker_5,5289.21,cfiA_positivo_like
+89d14a75-b4d7-4ef4-857d-222376620b5c,6392,2,cfiA_positive,Family Bacteroidaceae,False,marker_1,4686.31,cfiA_positivo_like
+89d14a75-b4d7-4ef4-857d-222376620b5c,6392,2,cfiA_positive,Family Bacteroidaceae,False,marker_2,4825.81,cfiA_positivo_like
+89d14a75-b4d7-4ef4-857d-222376620b5c,6392,2,cfiA_positive,Family Bacteroidaceae,False,marker_3,5002.41,cfiA_positivo_like
+89d14a75-b4d7-4ef4-857d-222376620b5c,6392,2,cfiA_positive,Family Bacteroidaceae,False,marker_4,5187.81,cfiA_positivo_like
+89d14a75-b4d7-4ef4-857d-222376620b5c,6392,2,cfiA_positive,Family Bacteroidaceae,False,marker_5,5289.92,cfiA_positivo_like
+e6bc76dc-99bd-4e23-98a6-6c47bf69c871,6399,1,cfiA_positive,fragilis,False,marker_1,4685.53,cfiA_positivo_like
+e6bc76dc-99bd-4e23-98a6-6c47bf69c871,6399,1,cfiA_positive,fragilis,False,marker_2,4824.31,cfiA_positivo_like
+e6bc76dc-99bd-4e23-98a6-6c47bf69c871,6399,1,cfiA_positive,fragilis,False,marker_3,5000.15,cfiA_positivo_like
+e6bc76dc-99bd-4e23-98a6-6c47bf69c871,6399,1,cfiA_positive,fragilis,False,marker_4,5186.86,cfiA_positivo_like
+e6bc76dc-99bd-4e23-98a6-6c47bf69c871,6399,1,cfiA_positive,fragilis,False,marker_5,5288.23,cfiA_positivo_like
+d86f3665-c345-44db-be7a-5d5e62053d97,6447,1,cfiA_positive,Family Bacteroidaceae,False,marker_1,4685.64,cfiA_positivo_like
+d86f3665-c345-44db-be7a-5d5e62053d97,6447,1,cfiA_positive,Family Bacteroidaceae,False,marker_2,4825.14,cfiA_positivo_like
+d86f3665-c345-44db-be7a-5d5e62053d97,6447,1,cfiA_positive,Family Bacteroidaceae,False,marker_3,5001.03,cfiA_positivo_like
+d86f3665-c345-44db-be7a-5d5e62053d97,6447,1,cfiA_positive,Family Bacteroidaceae,False,marker_4,5201.83,cfiA_negativo_like
+d86f3665-c345-44db-be7a-5d5e62053d97,6447,1,cfiA_positive,Family Bacteroidaceae,False,marker_5,5280.02,cfiA_positivo_like
+0d77177c-8aa0-4f90-be4b-4b4841c656c1,6447,1b,cfiA_positive,Family Bacteroidaceae,False,marker_1,4684.98,cfiA_positivo_like
+0d77177c-8aa0-4f90-be4b-4b4841c656c1,6447,1b,cfiA_positive,Family Bacteroidaceae,False,marker_2,4823.79,cfiA_positivo_like
+0d77177c-8aa0-4f90-be4b-4b4841c656c1,6447,1b,cfiA_positive,Family Bacteroidaceae,False,marker_3,5001.03,cfiA_positivo_like
+0d77177c-8aa0-4f90-be4b-4b4841c656c1,6447,1b,cfiA_positive,Family Bacteroidaceae,False,marker_4,5200.43,cfiA_negativo_like
+0d77177c-8aa0-4f90-be4b-4b4841c656c1,6447,1b,cfiA_positive,Family Bacteroidaceae,False,marker_5,5287.09,cfiA_positivo_like
+96ae07b7-b2f3-450a-9bdb-858a25764822,6655,1,cfiA_positive,Family Bacteroidaceae,False,marker_1,4685.64,cfiA_positivo_like
+96ae07b7-b2f3-450a-9bdb-858a25764822,6655,1,cfiA_positive,Family Bacteroidaceae,False,marker_2,4825.14,cfiA_positivo_like
+96ae07b7-b2f3-450a-9bdb-858a25764822,6655,1,cfiA_positive,Family Bacteroidaceae,False,marker_3,5021.0,cfiA_negativo_like
+96ae07b7-b2f3-450a-9bdb-858a25764822,6655,1,cfiA_positive,Family Bacteroidaceae,False,marker_4,5187.81,cfiA_positivo_like
+96ae07b7-b2f3-450a-9bdb-858a25764822,6655,1,cfiA_positive,Family Bacteroidaceae,False,marker_5,5289.21,cfiA_positivo_like
+293bd71b-edf5-4b31-b26a-eb844afeaa00,6655,1b,cfiA_positive,Family Bacteroidaceae,False,marker_1,4685.64,cfiA_positivo_like
+293bd71b-edf5-4b31-b26a-eb844afeaa00,6655,1b,cfiA_positive,Family Bacteroidaceae,False,marker_2,4825.14,cfiA_positivo_like
+293bd71b-edf5-4b31-b26a-eb844afeaa00,6655,1b,cfiA_positive,Family Bacteroidaceae,False,marker_3,5021.0,cfiA_negativo_like
+293bd71b-edf5-4b31-b26a-eb844afeaa00,6655,1b,cfiA_positive,Family Bacteroidaceae,False,marker_4,5187.11,cfiA_positivo_like
+293bd71b-edf5-4b31-b26a-eb844afeaa00,6655,1b,cfiA_positive,Family Bacteroidaceae,False,marker_5,5289.21,cfiA_positivo_like
+ded005d4-4519-4bdc-862f-861e021c2c9d,6717,1,cfiA_negative,fragilis,False,marker_1,4707.64,cfiA_negativo_like
+ded005d4-4519-4bdc-862f-861e021c2c9d,6717,1,cfiA_negative,fragilis,False,marker_2,4814.33,cfiA_negativo_like
+ded005d4-4519-4bdc-862f-861e021c2c9d,6717,1,cfiA_negative,fragilis,False,marker_3,5013.42,cfiA_negativo_like
+ded005d4-4519-4bdc-862f-861e021c2c9d,6717,1,cfiA_negative,fragilis,False,marker_4,5199.73,cfiA_negativo_like
+ded005d4-4519-4bdc-862f-861e021c2c9d,6717,1,cfiA_negative,fragilis,False,marker_5,5264.47,cfiA_negativo_like
+826d3f99-3ae8-48b9-82c7-200c8defd803,6717,2,cfiA_negative,fragilis,False,marker_1,4708.97,cfiA_negativo_like
+826d3f99-3ae8-48b9-82c7-200c8defd803,6717,2,cfiA_negative,fragilis,False,marker_2,4815.01,cfiA_negativo_like
+826d3f99-3ae8-48b9-82c7-200c8defd803,6717,2,cfiA_negative,fragilis,False,marker_3,5016.18,cfiA_negativo_like
+826d3f99-3ae8-48b9-82c7-200c8defd803,6717,2,cfiA_negative,fragilis,False,marker_4,5201.83,cfiA_negativo_like
+826d3f99-3ae8-48b9-82c7-200c8defd803,6717,2,cfiA_negative,fragilis,False,marker_5,5285.67,cfiA_positivo_like
+2f32c9d1-df27-4544-a093-c73d63242ccd,6741,1,cfiA_negative,fragilis,False,marker_1,4710.18,cfiA_negativo_like
+2f32c9d1-df27-4544-a093-c73d63242ccd,6741,1,cfiA_negative,fragilis,False,marker_2,4815.53,cfiA_negativo_like
+2f32c9d1-df27-4544-a093-c73d63242ccd,6741,1,cfiA_negative,fragilis,False,marker_3,5014.6,cfiA_negativo_like
+2f32c9d1-df27-4544-a093-c73d63242ccd,6741,1,cfiA_negative,fragilis,False,marker_4,5202.28,cfiA_negativo_like
+2f32c9d1-df27-4544-a093-c73d63242ccd,6741,1,cfiA_negative,fragilis,False,marker_5,5265.62,cfiA_negativo_like
+4d854b41-6cef-4026-9ed8-6fea5f541c04,6741,2,cfiA_negative,fragilis,False,marker_1,4710.85,cfiA_negativo_like
+4d854b41-6cef-4026-9ed8-6fea5f541c04,6741,2,cfiA_negative,fragilis,False,marker_2,4816.88,cfiA_negativo_like
+4d854b41-6cef-4026-9ed8-6fea5f541c04,6741,2,cfiA_negative,fragilis,False,marker_3,,sin_pico_detectado
+4d854b41-6cef-4026-9ed8-6fea5f541c04,6741,2,cfiA_negative,fragilis,False,marker_4,5199.48,cfiA_negativo_like
+4d854b41-6cef-4026-9ed8-6fea5f541c04,6741,2,cfiA_negative,fragilis,False,marker_5,5289.64,cfiA_positivo_like
+55ca61a7-dc9b-49ea-86cf-7d4a25c58126,6771,1,cfiA_negative,fragilis,False,marker_1,4708.3,cfiA_negativo_like
+55ca61a7-dc9b-49ea-86cf-7d4a25c58126,6771,1,cfiA_negative,fragilis,False,marker_2,4815.01,cfiA_negativo_like
+55ca61a7-dc9b-49ea-86cf-7d4a25c58126,6771,1,cfiA_negative,fragilis,False,marker_3,5014.8,cfiA_negativo_like
+55ca61a7-dc9b-49ea-86cf-7d4a25c58126,6771,1,cfiA_negative,fragilis,False,marker_4,5200.43,cfiA_negativo_like
+55ca61a7-dc9b-49ea-86cf-7d4a25c58126,6771,1,cfiA_negative,fragilis,False,marker_5,5263.77,cfiA_negativo_like
+6f04b81e-3c74-4761-93d0-a55d1acc2173,6771,2,cfiA_negative,fragilis,False,marker_1,4708.3,cfiA_negativo_like
+6f04b81e-3c74-4761-93d0-a55d1acc2173,6771,2,cfiA_negative,fragilis,False,marker_2,4813.66,cfiA_negativo_like
+6f04b81e-3c74-4761-93d0-a55d1acc2173,6771,2,cfiA_negative,fragilis,False,marker_3,5014.8,cfiA_negativo_like
+6f04b81e-3c74-4761-93d0-a55d1acc2173,6771,2,cfiA_negative,fragilis,False,marker_4,5201.13,cfiA_negativo_like
+6f04b81e-3c74-4761-93d0-a55d1acc2173,6771,2,cfiA_negative,fragilis,False,marker_5,5264.47,cfiA_negativo_like
+486de838-0d22-42c9-a9c8-37595b4beec6,6839,1,cfiA_negative,fragilis,False,marker_1,4709.52,cfiA_negativo_like
+486de838-0d22-42c9-a9c8-37595b4beec6,6839,1,cfiA_negative,fragilis,False,marker_2,4814.18,cfiA_negativo_like
+486de838-0d22-42c9-a9c8-37595b4beec6,6839,1,cfiA_negative,fragilis,False,marker_3,5021.49,cfiA_negativo_like
+486de838-0d22-42c9-a9c8-37595b4beec6,6839,1,cfiA_negative,fragilis,False,marker_4,5199.48,cfiA_negativo_like
+486de838-0d22-42c9-a9c8-37595b4beec6,6839,1,cfiA_negative,fragilis,False,marker_5,5263.5,cfiA_negativo_like
+c09980a8-6813-46be-96ae-882cf9f8a2d0,6839,2,cfiA_negative,fragilis,False,marker_1,4708.85,cfiA_negativo_like
+c09980a8-6813-46be-96ae-882cf9f8a2d0,6839,2,cfiA_negative,fragilis,False,marker_2,4814.86,cfiA_negativo_like
+c09980a8-6813-46be-96ae-882cf9f8a2d0,6839,2,cfiA_negative,fragilis,False,marker_3,5021.49,cfiA_negativo_like
+c09980a8-6813-46be-96ae-882cf9f8a2d0,6839,2,cfiA_negative,fragilis,False,marker_4,5200.88,cfiA_negativo_like
+c09980a8-6813-46be-96ae-882cf9f8a2d0,6839,2,cfiA_negative,fragilis,False,marker_5,5262.79,cfiA_negativo_like
+50542e9e-22c1-4f93-8db6-114d2f73d849,6843,1,cfiA_negative,fragilis,False,marker_1,4709.52,cfiA_negativo_like
+50542e9e-22c1-4f93-8db6-114d2f73d849,6843,1,cfiA_negative,fragilis,False,marker_2,4808.11,cfiA_negativo_like
+50542e9e-22c1-4f93-8db6-114d2f73d849,6843,1,cfiA_negative,fragilis,False,marker_3,5015.29,cfiA_negativo_like
+50542e9e-22c1-4f93-8db6-114d2f73d849,6843,1,cfiA_negative,fragilis,False,marker_4,5202.28,cfiA_negativo_like
+50542e9e-22c1-4f93-8db6-114d2f73d849,6843,1,cfiA_negative,fragilis,False,marker_5,5288.94,cfiA_positivo_like
+90e163e3-1fc2-4bb2-8ee2-05190c1ddd09,6843,2,cfiA_negative,fragilis,False,marker_1,4709.52,cfiA_negativo_like
+90e163e3-1fc2-4bb2-8ee2-05190c1ddd09,6843,2,cfiA_negative,fragilis,False,marker_2,4811.49,cfiA_negativo_like
+90e163e3-1fc2-4bb2-8ee2-05190c1ddd09,6843,2,cfiA_negative,fragilis,False,marker_3,,sin_pico_detectado
+90e163e3-1fc2-4bb2-8ee2-05190c1ddd09,6843,2,cfiA_negative,fragilis,False,marker_4,5202.28,cfiA_negativo_like
+90e163e3-1fc2-4bb2-8ee2-05190c1ddd09,6843,2,cfiA_negative,fragilis,False,marker_5,5288.94,cfiA_positivo_like
+79df8602-61ce-4c8e-88dc-a7d9ecd123fe,6862,1,cfiA_negative,fragilis,False,marker_1,4709.64,cfiA_negativo_like
+79df8602-61ce-4c8e-88dc-a7d9ecd123fe,6862,1,cfiA_negative,fragilis,False,marker_2,4815.01,cfiA_negativo_like
+79df8602-61ce-4c8e-88dc-a7d9ecd123fe,6862,1,cfiA_negative,fragilis,False,marker_3,5015.49,cfiA_negativo_like
+79df8602-61ce-4c8e-88dc-a7d9ecd123fe,6862,1,cfiA_negative,fragilis,False,marker_4,5201.83,cfiA_negativo_like
+79df8602-61ce-4c8e-88dc-a7d9ecd123fe,6862,1,cfiA_negative,fragilis,False,marker_5,5265.18,cfiA_negativo_like
+6b8a4b7b-a773-4d1f-9a97-77a256302ee0,6862,2,cfiA_negative,fragilis,False,marker_1,4710.31,cfiA_negativo_like
+6b8a4b7b-a773-4d1f-9a97-77a256302ee0,6862,2,cfiA_negative,fragilis,False,marker_2,4815.01,cfiA_negativo_like
+6b8a4b7b-a773-4d1f-9a97-77a256302ee0,6862,2,cfiA_negative,fragilis,False,marker_3,,sin_pico_detectado
+6b8a4b7b-a773-4d1f-9a97-77a256302ee0,6862,2,cfiA_negative,fragilis,False,marker_4,5201.83,cfiA_negativo_like
+6b8a4b7b-a773-4d1f-9a97-77a256302ee0,6862,2,cfiA_negative,fragilis,False,marker_5,5289.92,cfiA_positivo_like
+887e8ddb-f6b3-4836-b874-9dd1bb976d19,7648,1,cfiA_negative,fragilis,False,marker_1,4708.85,cfiA_negativo_like
+887e8ddb-f6b3-4836-b874-9dd1bb976d19,7648,1,cfiA_negative,fragilis,False,marker_2,4814.86,cfiA_negativo_like
+887e8ddb-f6b3-4836-b874-9dd1bb976d19,7648,1,cfiA_negative,fragilis,False,marker_3,5014.6,cfiA_negativo_like
+887e8ddb-f6b3-4836-b874-9dd1bb976d19,7648,1,cfiA_negative,fragilis,False,marker_4,5202.63,cfiA_negativo_like
+887e8ddb-f6b3-4836-b874-9dd1bb976d19,7648,1,cfiA_negative,fragilis,False,marker_5,5264.91,cfiA_negativo_like
+20a374bf-b58f-4628-a1fd-1aae25d88bc3,7648,1b,cfiA_negative,unspecified Spectren,True,marker_1,4710.85,cfiA_negativo_like
+20a374bf-b58f-4628-a1fd-1aae25d88bc3,7648,1b,cfiA_negative,unspecified Spectren,True,marker_2,4818.91,cfiA_negativo_like
+20a374bf-b58f-4628-a1fd-1aae25d88bc3,7648,1b,cfiA_negative,unspecified Spectren,True,marker_3,5023.56,cfiA_negativo_like
+20a374bf-b58f-4628-a1fd-1aae25d88bc3,7648,1b,cfiA_negative,unspecified Spectren,True,marker_4,5200.88,cfiA_negativo_like
+20a374bf-b58f-4628-a1fd-1aae25d88bc3,7648,1b,cfiA_negative,unspecified Spectren,True,marker_5,5289.64,cfiA_positivo_like
+51aae319-2ab0-4672-a09f-492d535756af,7681,1,cfiA_negative,fragilis,False,marker_1,4709.52,cfiA_negativo_like
+51aae319-2ab0-4672-a09f-492d535756af,7681,1,cfiA_negative,fragilis,False,marker_2,4815.53,cfiA_negativo_like
+51aae319-2ab0-4672-a09f-492d535756af,7681,1,cfiA_negative,fragilis,False,marker_3,,sin_pico_detectado
+51aae319-2ab0-4672-a09f-492d535756af,7681,1,cfiA_negative,fragilis,False,marker_4,5201.58,cfiA_negativo_like
+51aae319-2ab0-4672-a09f-492d535756af,7681,1,cfiA_negative,fragilis,False,marker_5,5261.74,cfiA_negativo_like
+4c7d8b07-1e19-416b-abbd-59c87e2c1c27,7681,2,cfiA_negative,fragilis,False,marker_1,4710.18,cfiA_negativo_like
+4c7d8b07-1e19-416b-abbd-59c87e2c1c27,7681,2,cfiA_negative,fragilis,False,marker_2,4815.2,cfiA_negativo_like
+4c7d8b07-1e19-416b-abbd-59c87e2c1c27,7681,2,cfiA_negative,fragilis,False,marker_3,5015.98,cfiA_negativo_like
+4c7d8b07-1e19-416b-abbd-59c87e2c1c27,7681,2,cfiA_negative,fragilis,False,marker_4,5202.28,cfiA_negativo_like
+4c7d8b07-1e19-416b-abbd-59c87e2c1c27,7681,2,cfiA_negative,fragilis,False,marker_5,5265.62,cfiA_negativo_like

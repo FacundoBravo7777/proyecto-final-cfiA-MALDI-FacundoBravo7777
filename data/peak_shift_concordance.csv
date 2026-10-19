@@ -1,0 +1,15 @@
+strain_id,pcr_status,marcadores_concordantes,sin_pico_detectado
+5766,cfiA_negative,4/5,0
+6085,cfiA_positive,5/5,0
+6392,cfiA_positive,5/5,0
+6399,cfiA_positive,5/5,0
+6447,cfiA_positive,4/5,0
+6655,cfiA_positive,4/5,0
+6717,cfiA_negative,5/5,0
+6741,cfiA_negative,5/5,0
+6771,cfiA_negative,5/5,0
+6839,cfiA_negative,5/5,0
+6843,cfiA_negative,4/5,0
+6862,cfiA_negative,5/5,0
+7648,cfiA_negative,5/5,0
+7681,cfiA_negative,4/4,1
