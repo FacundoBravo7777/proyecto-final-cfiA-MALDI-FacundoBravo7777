@@ -1,0 +1,3 @@
+Metodo,Accuracy,Sensibilidad,Especificidad
+Voto mayoritario (baseline),1.0,1.0,1.0
+Random Forest (LOSO-CV),1.0,1.0,1.0
